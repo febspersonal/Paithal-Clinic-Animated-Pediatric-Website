@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 540" fill="none">
+<defs>
+<linearGradient id="skin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbe3ce"/><stop offset="1" stop-color="#eab49b"/></linearGradient>
+<linearGradient id="hair" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8a6953"/><stop offset="1" stop-color="#4b352b"/></linearGradient>
+<linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d0d4b1"/><stop offset="1" stop-color="#8b9872"/></linearGradient>
+<linearGradient id="bear" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dcb68d"/><stop offset="1" stop-color="#b78765"/></linearGradient>
+<radialGradient id="blush"><stop stop-color="#e69b91" stop-opacity=".85"/><stop offset="1" stop-color="#e69b91" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="1" fill="#fff" opacity=".25"/></pattern>
+</defs>
+<path d="M105 468V270c0-135 80-220 211-220 139 0 216 91 216 220v198Z" fill="#e9dfce"/><path d="M130 466V275c0-123 68-198 187-198 120 0 189 75 189 198v191" stroke="#f7f1e8" stroke-width="2" stroke-dasharray="4 8"/><ellipse cx="316" cy="485" rx="224" ry="24" fill="#8c8d70" opacity=".13"/>
+<g stroke="#879078" stroke-width="2" stroke-linecap="round"><path d="M102 479Q64 380 54 290M94 447Q53 420 33 384M82 410Q114 376 113 341M68 369Q39 347 30 324"/><path d="M521 479Q560 393 572 302M541 435Q585 411 600 376M553 404Q526 370 530 342"/></g>
+<g fill="#b1b59a"><path d="M55 298Q24 279 34 255Q58 263 55 298M34 384Q6 379 8 352Q30 354 34 384M112 342Q90 324 115 298Q130 321 112 342M31 324Q7 324 4 300Q30 300 31 324M572 307Q551 285 580 260Q594 286 572 307M600 377Q580 350 614 339Q627 365 600 377M531 345Q500 338 505 313Q531 313 531 345"/></g>
+<g fill="#c58d7f"><path d="M161 125c-16-19-37 6 0 29 37-23 16-48 0-29Z" opacity=".85"/><path d="M485 174c-10-13-24 5 0 19 24-14 10-32 0-19Z" opacity=".7"/></g><g stroke="#b19672" stroke-width="2" stroke-linecap="round"><path d="M453 87v24m-12-12h24M143 243v18m-9-9h18M510 251v17m-8-8h16"/></g>
+<!-- child seated, trousers and shoes -->
+<path d="M223 369Q174 388 159 438Q151 468 184 476L300 473Q318 466 320 442L308 396Z" fill="#e3cbb3" stroke="#a98b75" stroke-width="2"/><path d="M383 370Q437 387 463 438Q478 468 442 477L322 474Q302 467 307 440L319 397Z" fill="#f0ddc6" stroke="#a98b75" stroke-width="2"/><path d="M167 442q-28-2-36 16t19 27h82q16-7 5-25l-13-17Z" fill="#8d9876" stroke="#6c765b" stroke-width="2"/><path d="M443 444q28-3 38 14t-17 27h-82q-16-7-5-25l13-17Z" fill="#8d9876" stroke="#6c765b" stroke-width="2"/><path d="M137 477h98m145 0h96" stroke="#f6f0e8" stroke-width="6" stroke-linecap="round"/><path d="m178 455 26 0m-23 7h26m196-7h26m-29 7h26" stroke="#f6f0e8" stroke-width="3" stroke-linecap="round"/>
+<!-- hair silhouette and body -->
+<path d="M211 257Q164 219 175 157 179 101 229 80 276 47 347 69 407 73 432 127 467 184 430 249 413 275 374 281L225 280Z" fill="url(#hair)" stroke="#614737" stroke-width="2.5"/>
+<path d="M260 275Q218 283 194 323L175 373Q173 396 201 401L245 385 267 422H364L382 385 420 401Q447 396 443 374L420 323Q398 284 355 275Z" fill="url(#shirt)" stroke="#768161" stroke-width="2.5"/>
+<path d="M266 262v29q42 39 87 0v-29" fill="url(#skin)" stroke="#bb8d77" stroke-width="2"/><path d="M266 286q42 31 87 0l18 12q-59 53-121 0Z" fill="#faf3e8"/>
+<path d="M221 323q-11 29-12 54m198-54q11 29 12 54m-172 37h117" stroke="#768161" stroke-width="2" opacity=".7"/><path d="M194 347l-11 28q-5 20 14 23m223-51 12 28q5 20-14 23" stroke="#e0e3c7" stroke-width="4" stroke-linecap="round"/>
+<!-- ears and face -->
+<ellipse cx="198" cy="207" rx="19" ry="26" fill="url(#skin)" stroke="#b88872" stroke-width="2"/><ellipse cx="416" cy="207" rx="19" ry="26" fill="url(#skin)" stroke="#b88872" stroke-width="2"/>
+<path d="M204 151Q221 107 307 108 395 108 411 158L412 210Q405 273 309 282 213 273 202 210Z" fill="url(#skin)" stroke="#b88872" stroke-width="2"/>
+<path d="M194 174q-7-76 63-100 54-21 101 4 62 15 73 83l-17 42q-9-36-25-58-43-7-74-38-24 39-107 61l-8 30Z" fill="url(#hair)" stroke="#614737" stroke-width="2"/>
+<path d="M202 151q35-52 99-68m-90 73q52-21 87-58m30-13q54 5 81 44m-81-33q28 30 69 39" stroke="#b38b69" stroke-width="2.5" stroke-linecap="round" opacity=".6"/>
+<path d="M242 96q-14-32-44-27 1 31 31 43-23 10-17 35 32-3 42-26 23 15 42-4-12-22-38-17 4-15-16-4Z" fill="#f5e8d3" stroke="#c0a98f" stroke-width="2"/>
+<ellipse cx="246" cy="230" rx="27" ry="16" fill="url(#blush)"/><ellipse cx="372" cy="230" rx="27" ry="16" fill="url(#blush)"/>
+<path d="M241 208q15-20 31 0m73 0q15-20 31 0" stroke="#543b32" stroke-width="4" stroke-linecap="round"/><path d="M306 218q-5 8 4 8m-14 15q13 13 27 0" stroke="#a86659" stroke-width="2.6" stroke-linecap="round"/>
+<!-- teddy -->
+<ellipse cx="309" cy="388" rx="53" ry="58" fill="url(#bear)" stroke="#a47a5e" stroke-width="2"/><circle cx="268" cy="313" r="22" fill="url(#bear)" stroke="#a47a5e" stroke-width="2"/><circle cx="350" cy="313" r="22" fill="url(#bear)" stroke="#a47a5e" stroke-width="2"/><circle cx="268" cy="313" r="11" fill="#e9cbb0"/><circle cx="350" cy="313" r="11" fill="#e9cbb0"/><ellipse cx="309" cy="345" rx="57" ry="49" fill="url(#bear)" stroke="#a47a5e" stroke-width="2"/><ellipse cx="309" cy="358" rx="26" ry="19" fill="#f0d8bd"/><circle cx="289" cy="339" r="4" fill="#594437"/><circle cx="329" cy="339" r="4" fill="#594437"/><path d="M301 352q8-8 16 0-8 11-16 0Z" fill="#694d3b"/><path d="M309 359v6m-9 0q9 7 18 0" stroke="#694d3b" stroke-width="1.5" stroke-linecap="round"/><path d="M280 382q-10-19 29-4 39-15 29 4l-6 17-23-15-23 15Z" fill="#b77970"/><circle cx="309" cy="382" r="5" fill="#955b53"/>
+<path d="M207 361q18 6 59 14 20 7 14 20-4 11-24 8l-52-12q-16-10 3-30Zm204 0q-18 6-59 14-20 7-14 20 4 11 24 8l52-12q16-10-3-30Z" fill="url(#skin)" stroke="#b88872" stroke-width="2"/>
+<path d="M207 361l-9 29m213-29 9 29" stroke="#f2eadb" stroke-width="7" stroke-linecap="round"/>
+<path d="M287 419q-19 6-18 22 2 15 25 14l15-15 15 15q23 1 25-14 1-16-18-22" fill="url(#bear)" stroke="#a47a5e" stroke-width="2"/>
+<!-- small daisies -->
+<g transform="translate(79 416)"><circle r="5" fill="#c29b62"/><g fill="#fffaf0"><ellipse cy="-8" rx="3.5" ry="6"/><ellipse cy="8" rx="3.5" ry="6"/><ellipse cx="8" rx="6" ry="3.5"/><ellipse cx="-8" rx="6" ry="3.5"/></g></g><g transform="translate(552 379)"><circle r="5" fill="#c29b62"/><g fill="#fffaf0"><ellipse cy="-8" rx="3.5" ry="6"/><ellipse cy="8" rx="3.5" ry="6"/><ellipse cx="8" rx="6" ry="3.5"/><ellipse cx="-8" rx="6" ry="3.5"/></g></g>
+</svg>
